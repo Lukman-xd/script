@@ -27,5 +27,17 @@ $ ls
 
 $ python script.py
 
+Bagi yg sudah install ketik
+
+$ rm -rf script
+
+$ git clone https://github.com/Lukman-xd/script
+
+$ cd script
+
+$ git pull
+
+$ python script.py
 
 JANGAN LUPA FOLLOW GITHUB GW
+
